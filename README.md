@@ -1,5 +1,7 @@
 👋 Hi, I’m tanmayiii
+
 👀 I’m interested in web development, game development and machine learning :)
+
 Currently learning backend development, game development using Gamemaker and Unity and ios app developement using SwiftUI. 
 
 
