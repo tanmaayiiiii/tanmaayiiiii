@@ -1,11 +1,7 @@
 👋 Hi, I’m tanmayiii
-👀 I’m interested in web development, game development and 
+👀 I’m interested in web development, game development and machine learning :)
+Currently learning backend development, game development using Gamemaker and Unity and ios app developement using SwiftUI. 
 
-🌱 I’m currently learning Node.js, Express.js and PDDL
-💞️ I’m looking to collaborate on ANY cool project!
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 tanmaayiiiii/tanmaayiiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
