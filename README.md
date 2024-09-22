@@ -2,7 +2,7 @@
 
 👀 I’m interested in web development, game development and machine learning :)
 
-Currently learning backend development, game development using Gamemaker and Unity and ios app developement using SwiftUI. 
+✨ currently learning backend development (node.js, express.js), game development using gamemaker and unity and ios app developement using swiftui ✨
 
 
 <!---
