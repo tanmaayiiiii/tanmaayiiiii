@@ -1,4 +1,4 @@
-👋 Hi, I’m tanmayiii, Fancy seeing you here!🌟
+👋 Hi, I’m tanmayiii, Fancy seeing you here!🌟😊
 
 👀 I’m super interested in web development, game development, and machine learning! 🎮🤖💻
 
