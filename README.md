@@ -5,7 +5,9 @@
 ✨ Currently learning:
 
 Backend development with Node.js & Express.js 🔧
+
 Game development with GameMaker & Unity 🎨🕹️
+
 iOS app development with SwiftUI 📱🍎
 
 <!---
